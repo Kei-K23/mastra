@@ -1,5 +1,25 @@
 # mastra
 
+## 0.12.1-alpha.0
+
+### Patch Changes
+
+- 6d6e5dd: dependencies updates:
+  - Updated dependency [`fs-extra@^11.3.1` ↗︎](https://www.npmjs.com/package/fs-extra/v/11.3.1) (from `^11.3.0`, in `dependencies`)
+- Updated dependencies [6d6e5dd]
+- Updated dependencies [0662d02]
+- Updated dependencies [6189844]
+- Updated dependencies [d7a8f59]
+- Updated dependencies [4dda259]
+- Updated dependencies [defed1c]
+- Updated dependencies [79b39c1]
+- Updated dependencies [6991ced]
+- Updated dependencies [9cb9c42]
+- Updated dependencies [8334859]
+  - @mastra/deployer@0.16.1-alpha.0
+  - @mastra/core@0.16.1-alpha.0
+  - @mastra/mcp@0.12.0-alpha.0
+
 ## 0.12.0
 
 ### Minor Changes

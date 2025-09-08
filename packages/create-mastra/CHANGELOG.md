@@ -1,5 +1,12 @@
 # create-mastra
 
+## 0.12.1-alpha.0
+
+### Patch Changes
+
+- 6d6e5dd: dependencies updates:
+  - Updated dependency [`fs-extra@^11.3.1` ↗︎](https://www.npmjs.com/package/fs-extra/v/11.3.1) (from `^11.3.0`, in `dependencies`)
+
 ## 0.12.0
 
 ### Minor Changes
